@@ -18,6 +18,7 @@ public class Cliente {
         
         System.out.println("Hola Mundo");
         System.out.println("Nueva instruccion");
+        System.out.println("la cucha de richard");
     }
     
 }
